@@ -1,0 +1,4 @@
+[console_scripts]
+node1 = task1.node1:main
+node2 = task1.node2:main
+
